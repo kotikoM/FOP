@@ -21,7 +21,3 @@ This code comes with **no guarantees of efficiency, correctness, or sanity**. An
 ## 🚀 How to Run  
 
 1. **Don’t.**  
-2. If you insist, proceed at your own risk:  
-   ```bash
-   git clone https://github.com/yourusername/fundamentals-of-programming.git
-   cd fundamentals-of-programming
